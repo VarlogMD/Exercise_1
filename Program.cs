@@ -104,7 +104,6 @@ namespace Exercise_1
                 Console.WriteLine("Calculation error!");
                 System.Environment.Exit(1);
                 return 0;
-                //test git 
 
             }
 
